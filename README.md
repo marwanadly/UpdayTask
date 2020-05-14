@@ -9,7 +9,6 @@
 
 <br />
 
-  <h1 align="center">Upday Task</h1>
 
 
 <!-- ABOUT THE PROJECT -->
